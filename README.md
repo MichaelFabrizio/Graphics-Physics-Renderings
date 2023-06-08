@@ -10,9 +10,9 @@ Calculated using Lagrangian Mechanics
 
 ### Quantum orbital parametrization (Python & manim)
 
-https://github.com/MichaelFabrizio/Graphics-Physics-Renderings/assets/83029804/554a5292-2d42-451f-83da-b5707e0bf0e2
+https://github.com/MichaelFabrizio/Graphics-Physics-Renderings/assets/83029804/61945edd-71f7-4d4d-8c4d-9c4ae5331d3b
 
-https://github.com/MichaelFabrizio/Graphics-Physics-Renderings/assets/83029804/0b55453e-8c5e-41d7-8856-957f01c3041f
+https://github.com/MichaelFabrizio/Graphics-Physics-Renderings/assets/83029804/03ff178d-7f50-4cf4-9438-36e908ff9e9a
 
-https://github.com/MichaelFabrizio/Graphics-Physics-Renderings/assets/83029804/f9c1c477-92db-447f-a5fb-413b8eb6a8f0
+https://github.com/MichaelFabrizio/Graphics-Physics-Renderings/assets/83029804/025560e6-1497-4c9c-97e9-321ca9cde824
 
