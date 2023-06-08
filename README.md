@@ -12,10 +12,6 @@ https://github.com/MichaelFabrizio/Graphics-Physics-Renderings/assets/83029804/0
 ### Pendulum motions (Python, Numpy & Mathematica)
 Calculated using Lagrangian Mechanics
 
-![Pendulum_Motion_1](Pendulum_Motion_1.png)
-![Pendulum_Motion_1](Pendulum_Motion_2.png)
-![Pendulum_Motion_1](Pendulum_Motion_3.png)
-
 <img src='Pendulum_Motion_1.png' width='512' height='422'>
 <img src='Pendulum_Motion_2.png' width='512' height='307'>
 <img src='Pendulum_Motion_3.png' width='512' height='422'>
