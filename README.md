@@ -3,7 +3,7 @@ Work area for my own projects researching into graphics, engine development, and
 
 ### Efficient hex grid rendering (C++, OpenGL, SDL)
 
-<img src='OpenGL/Hex_Grid.png' width='512' height='355'>
+<img src='OpenGL/Hex_Grid.png' width='1024' height='710'>
 <img src='OpenGL/Hello_Triangle.png' width='512' height='372.2'>
 
 ### Pendulum motions (Python, Numpy & Mathematica)
